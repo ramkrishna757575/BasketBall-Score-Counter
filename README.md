@@ -6,7 +6,7 @@ New functionalities will be added in the future like keeping track of time in ea
 
 To set-up this project in your local machine:
 
-1) Clone this repository in a folder.
-2) Open latest version of Android Studio
-3) Select the import project option.
+1) Clone this repository in a folder.<br/>
+2) Open latest version of Android Studio.<br/>
+3) Select the import project option.<br/>
 4) Browse and select the project from the folder in which you cloned this repo.
