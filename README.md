@@ -10,3 +10,5 @@ To set-up this project in your local machine:
 2) Open latest version of Android Studio.<br/>
 3) Select the import project option.<br/>
 4) Browse and select the project from the folder in which you cloned this repo.
+
+<h2>Work in progress</h2>
